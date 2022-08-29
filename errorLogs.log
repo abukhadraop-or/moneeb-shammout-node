@@ -1,0 +1,46 @@
+{"level":"error","message":"relation \"user\" does not exist"}
+{"level":"error","message":"Access denied. No token provided"}
+{"level":"error","message":"Validation error"}
+{"level":"error","message":"USER NOT FOUND"}
+{"level":"error","message":"PASSWORD INCORRECT"}
+{"level":"error","message":"relation \"user\" does not exist"}
+{"level":"error","message":"Access denied. No token provided"}
+{"level":"error","message":"Validation error"}
+{"level":"error","message":"USER NOT FOUND"}
+{"level":"error","message":"PASSWORD INCORRECT"}
+{"level":"error","message":"Access denied. No token provided"}
+{"level":"error","message":"Validation error"}
+{"level":"error","message":"Access denied. No token provided"}
+{"level":"error","message":"Access denied. No token provided"}
+{"level":"error","message":"Validation error"}
+{"level":"error","message":"Validation error"}
+{"level":"error","message":"USER NOT FOUND"}
+{"level":"error","message":"PASSWORD INCORRECT"}
+{"level":"error","message":"Access denied. No token provided"}
+{"level":"error","message":"Access denied. No token provided"}
+{"level":"error","message":"Access denied. No token provided"}
+{"level":"error","message":"Access denied. No token provided"}
+{"level":"error","message":"Access denied. No token provided"}
+{"level":"error","message":"Access denied. No token provided"}
+{"level":"error","message":"Access denied. No token provided"}
+{"level":"error","message":"Access denied. No token provided"}
+{"level":"error","message":"Access denied. No token provided"}
+{"level":"error","message":"Access denied. No token provided"}
+{"level":"error","message":"Access denied. No token provided"}
+{"level":"error","message":"Access denied. No token provided"}
+{"level":"error","message":"Access denied. No token provided"}
+{"level":"error","message":"Access denied. No token provided"}
+{"level":"error","message":"Access denied. No token provided"}
+{"level":"error","message":"Access denied. No token provided"}
+{"level":"error","message":"Access denied. No token provided"}
+{"action":"restart","level":"error","message":"listen EADDRINUSE: address already in use :::3000","stack":"Error: listen EADDRINUSE: address already in use :::3000\n    at Server.setupListenHandle [as _listen2] (node:net:1372:16)\n    at listenInCluster (node:net:1420:12)\n    at Server.listen (node:net:1508:7)\n    at Function.listen (/home/moneeb/Desktop/moneeb-shammout-node/node_modules/express/lib/application.js:618:24)\n    at Object.<anonymous> (/home/moneeb/Desktop/moneeb-shammout-node/src/server.js:25:5)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)","statusCode":500}
+{"action":"restart","level":"error","message":"listen EADDRINUSE: address already in use :::3000","stack":"Error: listen EADDRINUSE: address already in use :::3000\n    at Server.setupListenHandle [as _listen2] (node:net:1372:16)\n    at listenInCluster (node:net:1420:12)\n    at Server.listen (node:net:1508:7)\n    at Function.listen (/home/moneeb/Desktop/moneeb-shammout-node/node_modules/express/lib/application.js:618:24)\n    at Object.<anonymous> (/home/moneeb/Desktop/moneeb-shammout-node/src/server.js:20:5)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)","statusCode":500}
+{"action":"restart","level":"error","message":"listen EADDRINUSE: address already in use :::3000","stack":"Error: listen EADDRINUSE: address already in use :::3000\n    at Server.setupListenHandle [as _listen2] (node:net:1372:16)\n    at listenInCluster (node:net:1420:12)\n    at Server.listen (node:net:1508:7)\n    at Function.listen (/home/moneeb/Desktop/moneeb-shammout-node/node_modules/express/lib/application.js:618:24)\n    at Object.<anonymous> (/home/moneeb/Desktop/moneeb-shammout-node/src/server.js:20:5)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)","statusCode":500}
+{"action":"restart","level":"error","message":"listen EADDRINUSE: address already in use :::3000","stack":"Error: listen EADDRINUSE: address already in use :::3000\n    at Server.setupListenHandle [as _listen2] (node:net:1372:16)\n    at listenInCluster (node:net:1420:12)\n    at Server.listen (node:net:1508:7)\n    at Function.listen (/home/moneeb/Desktop/moneeb-shammout-node/node_modules/express/lib/application.js:618:24)\n    at Object.<anonymous> (/home/moneeb/Desktop/moneeb-shammout-node/src/server.js:20:5)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)","statusCode":500}
+{"level":"error","message":"Deletion Failed"}
+{"level":"error","message":"column movie.popualrity does not exist"}
+{"level":"error","message":"relation \"movie\" does not exist"}
+{"level":"error","message":"relation \"movie\" does not exist"}
+{"action":"restart","level":"error","message":"connect ECONNREFUSED 127.0.0.1:5432","stack":"SequelizeConnectionRefusedError: connect ECONNREFUSED 127.0.0.1:5432\n    at Client._connectionCallback (/home/moneeb/Desktop/moneeb-shammout-node/node_modules/sequelize/lib/dialects/postgres/connection-manager.js:130:24)\n    at Client._handleErrorWhileConnecting (/home/moneeb/Desktop/moneeb-shammout-node/node_modules/pg/lib/client.js:305:19)\n    at Client._handleErrorEvent (/home/moneeb/Desktop/moneeb-shammout-node/node_modules/pg/lib/client.js:315:19)\n    at Connection.emit (node:events:527:28)\n    at Socket.reportStreamError (/home/moneeb/Desktop/moneeb-shammout-node/node_modules/pg/lib/connection.js:52:12)\n    at Socket.emit (node:events:527:28)\n    at emitErrorNT (node:internal/streams/destroy:157:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:122:3)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)","statusCode":500}
+{"action":"restart","level":"error","message":"connect ECONNREFUSED 127.0.0.1:5432","stack":"SequelizeConnectionRefusedError: connect ECONNREFUSED 127.0.0.1:5432\n    at Client._connectionCallback (/home/moneeb/Desktop/moneeb-shammout-node/node_modules/sequelize/lib/dialects/postgres/connection-manager.js:130:24)\n    at Client._handleErrorWhileConnecting (/home/moneeb/Desktop/moneeb-shammout-node/node_modules/pg/lib/client.js:305:19)\n    at Client._handleErrorEvent (/home/moneeb/Desktop/moneeb-shammout-node/node_modules/pg/lib/client.js:315:19)\n    at Connection.emit (node:events:527:28)\n    at Socket.reportStreamError (/home/moneeb/Desktop/moneeb-shammout-node/node_modules/pg/lib/connection.js:52:12)\n    at Socket.emit (node:events:527:28)\n    at emitErrorNT (node:internal/streams/destroy:157:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:122:3)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)","statusCode":500}
+{"action":"restart","level":"error","message":"SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string","stack":"Error: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string\n    at Object.continueSession (/home/moneeb/Desktop/moneeb-shammout-node/node_modules/pg/lib/sasl.js:24:11)\n    at Client._handleAuthSASLContinue (/home/moneeb/Desktop/moneeb-shammout-node/node_modules/pg/lib/client.js:257:10)\n    at Connection.emit (node:events:527:28)\n    at /home/moneeb/Desktop/moneeb-shammout-node/node_modules/pg/lib/connection.js:114:12\n    at Parser.parse (/home/moneeb/Desktop/moneeb-shammout-node/node_modules/pg-protocol/dist/parser.js:40:17)\n    at Socket.<anonymous> (/home/moneeb/Desktop/moneeb-shammout-node/node_modules/pg-protocol/dist/index.js:11:42)\n    at Socket.emit (node:events:527:28)\n    at addChunk (node:internal/streams/readable:315:12)\n    at readableAddChunk (node:internal/streams/readable:289:9)\n    at Socket.Readable.push (node:internal/streams/readable:228:10)","statusCode":500}
